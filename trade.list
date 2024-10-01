@@ -4,3 +4,7 @@ DOMAIN-SUFFIX,tradingview.com
 
 # IBRK
 DOMAIN-SUFFIX,ibkr.com
+
+# IPTV
+DOMAIN-KEYWORD,skyflying
+DOMAIN-SUFFIX,skyflying.cc
