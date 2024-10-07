@@ -1,5 +1,6 @@
 # 192.168.5.151 device traffic
 SRC-IP-CIDR,192.168.5.151/32,no-resolve
+SRC-IP-CIDR,192.168.5.168/32,no-resolve
 
 # Tradingview
 DOMAIN-KEYWORD,trading
