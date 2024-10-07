@@ -1,3 +1,6 @@
+# 192.168.5.151 device traffic
+IP-CIDR,192.168.5.151/32
+
 # Tradingview
 DOMAIN-KEYWORD,trading
 DOMAIN-SUFFIX,tradingview.com
@@ -7,7 +10,7 @@ DOMAIN-SUFFIX,ibkr.com
 
 # Rithmic
 DOMAIN-KEYWORD,rithmic
-DOMAIN-KEYWORD,ritpz
 DOMAIN-SUFFIX,rithmic.com
 DOMAIN-SUFFIX,rithmic.net
 DOMAIN-SUFFIX,theomne.com
+
