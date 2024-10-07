@@ -1,4 +1,4 @@
-# 192.168.5.151 device traffic
+# 192.168.5.151 device all traffic
 SRC-IP-CIDR,192.168.5.151/32,no-resolve
 
 # Tradingview
