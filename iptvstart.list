@@ -4,3 +4,7 @@
 
 IP-CIDR,47.69.0.0/16,no-resolve
 IP-CIDR,36.156.0.0/16,no-resolve
+
+# superus
+DOMAIN-KEYWORD,superus
+DOMAIN-KEYWORD,r2s
