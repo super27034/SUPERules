@@ -2,6 +2,10 @@
 DOMAIN-KEYWORD,d-net
 DOMAIN-SUFFIX,d-net.tw
 
+# Router
+DOMAIN-KEYWORD,super27034
+DOMAIN-SUFFIX,frp
+
 # IP-CIDR
 IP-CIDR,64.62.0.0/16,no-resolve
 IP-CIDR,122.228.0.0/16,no-resolve
