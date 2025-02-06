@@ -3,10 +3,6 @@ DOMAIN-KEYWORD,d-net
 DOMAIN-SUFFIX,d-net.tw
 DOMAIN-KEYWORD,skyflying.cc
 
-# Router
-DOMAIN-KEYWORD,super27034
-DOMAIN-SUFFIX,frp
-
 # IP-CIDR
 IP-CIDR,64.62.0.0/16,no-resolve
 IP-CIDR,122.228.0.0/16,no-resolve
@@ -25,3 +21,10 @@ IP-CIDR,183.197.0.0/16,no-resolve
 # 36.156.98.68:8888
 
 IP-CIDR,47.69.0.0/16,no-resolve
+
+# Router
+DOMAIN-KEYWORD,super27034
+DOMAIN-SUFFIX,frp
+
+# BOC HK
+DOMAIN-KEYWORD,boc
